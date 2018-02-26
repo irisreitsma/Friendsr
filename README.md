@@ -1,0 +1,3 @@
+# Friendsr
+
+Rate your friends 
